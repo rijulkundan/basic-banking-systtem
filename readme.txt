@@ -1,6 +1,0 @@
-In order to use this appliction you must need following text file.
-1.Dat.txt
-2.data.txt
-3.uid.txt
-4.pass.txt.
-Reference from https://www.geeksforgeeks.org/,http://www.cplusplus.com/,https://stackoverflow.com/
